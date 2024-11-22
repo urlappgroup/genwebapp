@@ -6,7 +6,7 @@ https://genwebapp.com/
 只需要使用自然语言描述功能，使用ai开发和修改单页面html应用
 
 # 当前项目
-当前本github项目是genwebapp的论坛，可以在这里讨论关于genwebapp的一切
+当前github项目是genwebapp的论坛，可以在这里讨论关于genwebapp的一切
 
 关于genwebapp的问题请发布到issues板块：
 
